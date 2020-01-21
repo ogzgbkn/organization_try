@@ -1,0 +1,6 @@
+#HAHA
+
+def main():
+	print("Hello world!")
+
+main()
